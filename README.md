@@ -1,1 +1,0 @@
-# lavinal712.github.io
