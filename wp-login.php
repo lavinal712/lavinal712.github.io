@@ -20,6 +20,16 @@
 }
 #login .submit .button {
     background: #505050;
+}
+
+
+body::before{
+	-webkit-backdrop-filter: blur(2px);
+	backdrop-filter: blur(2px);
+	content:"";
+	width:100vw;
+	height:100vh;
+	display: block;
 }</style>
 <link rel="stylesheet" type="text/css" href="/wp-content/themes/Sakurairo-2.6.1.1/inc/login.css?2_6_1_1">
 <link href="https://fonts.geekzu.org/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
